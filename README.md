@@ -35,7 +35,8 @@ Exercícios voltados à análise de sistemas e levantamento de necessidades de p
 
 ## 🧠 Tecnologias e ferramentas utilizadas
 - Python 🐍  
-- Portugol  
+- Portugol
+- C++  
 - Conceitos de redes (Cisco) 🌐  
 
 ---
